@@ -1,9 +1,16 @@
 * {
     margin: 0;
     padding: 0;
+    border: none;
 }
 
 body {
     background-color: #222;
     color: #eee;
+    padding: 0;
+}
+.contenedor{
+    padding: 1rem;
+    background: tomato;
+    border: 1px solid red;
 }
