@@ -8,3 +8,8 @@ En este curso aprenderás:
 - Trabajos colaborativos
 - Trabajo con ramas remotas
 - ... y mucho más
+
+
+
+Nota: el error de git remote... al subir origin ya existe, cambiar add por set-url,
+y después ejecutar el push(git push -u origin master)
